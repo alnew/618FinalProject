@@ -1,4 +1,4 @@
-# 618FinalProject
+# Avocados Over Time
 Time Series for Avocado Data
 
 # Motivation
